@@ -1,22 +1,9 @@
 
-Note:
+Note for scan numbers:
 
 Chinese subjects: The raw fMRI data extend 8 seconds (4 scans) after the audio duration, while the derivative data match the exact audio length.
 English subjects: The raw fMRI data extend 16 seconds (8 scans) after the audio duration—8 seconds before audio onset and 8 seconds after the audio stops playing. The derivative data retain only the 8 seconds post-audio.
 French subjects: Both the raw and derivative data include 2 additional scans after the audio stops playing.
-
-| LPP Scan Numbers |              |            |            |            |            |            |            |            |            |            |
-|------------------|--------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
-|                  |              | 1          | 2          | 3          | 4          | 5          | 6          | 7          | 8          | 9          |
-| CN               | audio        | 564.982358 | 642.66458  | 643.703696 | 612.180204 | 584.530862 | 782.878866 | 726.626417 | 585.215193 | 801.101224 |
-|                  | scan_raw     | 287        | 326        | 326        | 311        | 297        | 396        | 368        | 297        | 405        |
-|                  | scan_preproc | 283        | 322        | 322        | 307        | 293        | 392        | 364        | 293        | 401        |
-| EN               | audio        | 554.7      | 587.8      | 671.4      | 598.2      | 522.2      | 678.1      | 642        | 575.8      | 727.1      |
-|                  | scan_raw     | 286        | 302        | 344        | 307        | 269        | 347        | 329        | 296        | 372        |
-|                  | scan_preproc | 282        | 298        | 340        | 303        | 265        | 343        | 325        | 292        | 368        |
-| FR               | audio        | 613.517279 | 647.039841 | 702.259501 | 624.491723 | 580.97576  | 750.379501 | 658.472404 | 583.17576  | 667.98288  |
-|                  | scan_raw     | 309        | 326        | 354        | 315        | 293        | 378        | 332        | 294        | 336        |
-|                  | scan_preproc | 309        | 326        | 354        | 315        | 293        | 378        | 332        | 294        | 336        |
 
 Participants  
 
