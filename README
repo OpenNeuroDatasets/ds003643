@@ -1,5 +1,5 @@
 
-Note for scan numbers:
+## Note for scan numbers
 
 Chinese subjects: The raw fMRI data extend 8 seconds (4 scans) after the audio duration, while the derivative data match the exact audio length.
 English subjects: The raw fMRI data extend 16 seconds (8 scans) after the audio duration—8 seconds before audio onset and 8 seconds after the audio stops playing. The derivative data retain only the 8 seconds post-audio.
