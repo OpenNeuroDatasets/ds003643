@@ -1,0 +1,17 @@
+# output of acpc detect
+*.txt
+*.ppm
+*.png
+*.mat
+*.nii
+*.node
+*.tif
+*.xlsx
+*.csv
+*.TextGrid
+bidsignore
+annotation/**/*.CSV
+annotation/**/*.TextGrid
+quiz/*.CSV
+
+
