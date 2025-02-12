@@ -57,4 +57,5 @@ English: The raw fMRI data have 4 extra scans (8 seconds) at audio onset and 4 e
 
 French: Both the raw and preprocessed data include 2 extra scans (4 seconds) after the audio offset.
 
-### The three images used at the beginning of the experiment can be found in the "stimuli" folder
+### Images 
+The 3 images used at the beginning of the experiment can be found in the "stimuli/images" folder
