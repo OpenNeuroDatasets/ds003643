@@ -51,10 +51,10 @@ Presentations scripts for all three languages along with code for technical vali
 |        | scan_preproc | 309   | 326   | 354   | 315   | 293   | 378   | 332   | 294   | 336   |
 |--------|--------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 
-Chinese: The raw fMRI data have 4 extra scans at the audio offset, while the preprocessed data match the audio length.
+Chinese: The raw fMRI data have 4 extra scans (8 seconds) at the audio offset, while the preprocessed data match the audio length.
 
 English: The raw fMRI data have 4 extra scans (8 seconds) at audio onset and 4 extra scans after the audio offset. The preprocessed data retain only the 4 extra scans after audio offset.
 
-French: Both the raw and preprocessed data include 2 extra scans after the audio offset.
+French: Both the raw and preprocessed data include 2 extra scans (4 seconds) after the audio offset.
 
 ### The three images used at the beginning of the experiment can be found in the "stimuli" folder
