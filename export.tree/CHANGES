@@ -1,0 +1,26 @@
+2.0.7 2025-02-12
+  - added images to the stimuli
+2.0.6 2025-02-10
+  - add scan information
+2.0.5 2024-01-29
+  - updated CN subj 18 data and added missing English data
+2.0.4 2024-01-17
+  - update CN subj 18 and 19 corrupted files
+2.0.3 2024-01-12
+  - added missing French data
+2.0.2 2024-01-10
+  - added missing CN data
+2.0.1 2022-07-12
+  - updated readme
+2.0.0 2022-07-12
+  - added scripts for presentation and data paper preparation
+1.0.4 2021-10-05
+  - remove bad subjects
+1.0.3 2021-10-02
+  - Added French data
+1.0.2 2021-06-04
+  - Edited French data
+1.0.1 2021-06-01
+  - added more data
+1.0.0 2021-05-26
+  - initial snapshot
