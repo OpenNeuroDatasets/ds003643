@@ -32,8 +32,8 @@ Code availability
 
 Presentations scripts for all three languages along with code for technical validation are included in the repository.
 
-
 ### Notes for number of fMRI scans and audio length
+We retained some extra scans at the beginning and end of the audio to account for signal stabilization and to capture the peak hemodynamic response function (HRF) at the audio offset.
 
 |  Task  |              | 1     | 2     | 3     | 4     | 5     | 6     | 7     | 8     | 9     |
 |:------:|--------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -57,5 +57,10 @@ English: The raw fMRI data have 4 extra scans (8 seconds) at audio onset and 4 e
 
 French: Both the raw and preprocessed data include 2 extra scans (4 seconds) after the audio offset.
 
-### Images 
-The 3 images used at the beginning of the experiment can be found in the "stimuli/images" folder
+### Notes for images 
+In the English and Chinese experiment, to help the participants understand this point, these visual cues were incorporated during the audio presentation for the first chapter. The 3 images can be found in the "stimuli/images" folder.
+
+English: boa.png appears at 10s for 15s; drawing_one.png appears at 35s for 20s; and drawing_two.png at 60s for 15s.
+
+Chinese: boa.png appears at 10s for 15s; drawing_one.png appears at 30s for 20s; and drawing_two.png at 55s for 15s.
+
