@@ -14,7 +14,9 @@ The English and Chinese participants went through one scanning session, which wa
 The English audiobook is 94 minutes long, translated by David Wilkinson and read by Karen Savage. The Chinese audiobook is 99 minutes long, read by a professional female Chinese broadcaster hired by the experimenter. The French audiobook is 97 minutes long, read by Nadine Eckert-Boulet and published by the now-defunct Omilia Languages Ltd. The original French text is copyrighted by Gallimard 1946.
 
 One of the central themes in the story is the difference between adults and children, especially the lack of imagination in the former. The narrator uses the visual cues of different drawings to emphasize this message and these drawings are present in the original text. In the English and Chinese study, to help the participants understand this point, these visual cues were incorporated during the audio presentation for the first chapter and are included in the OpenNeuro repository. In order to control for the visual stimuli and its associated neural activation, "picture events" conditions and "picture blocks" conditions are also included in the analysis to account for the visual stimuli presented to participants and its associated neural activation. These conditions match the presentation and duration of the visual stimuli and are aligned with particular plot points in the story. The 3 pictures can be found in the "stimuli/images" folder.
+
 English: boa.png appears at 10s for 15s; drawing_one.png appears at 35s for 20s; and drawing_two.png at 60s for 15s.
+
 Chinese: boa.png appears at 10s for 15s; drawing_one.png appears at 30s for 20s; and drawing_two.png at 55s for 15s.
 
 ### Acquisition
